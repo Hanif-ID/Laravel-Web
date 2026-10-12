@@ -168,8 +168,8 @@
                                 <input type="text" name="email" class="form-control">
                             </div>
                             <div class="mb-3">
-                                <label for="pertanyaan" name="pertanyaan" class="form-label">Pertanyaan</label>
-                                <textarea class="form-control" rows="4"></textarea>
+                                <label for="pertanyaan" class="form-label">Pertanyaan</label>
+                                <textarea name="pertanyaan" class="form-control" rows="4"></textarea>
                             </div>
                             <button type="submit" class="btn btn-primary">Kirim Pertanyaan</button>
                         </form>
